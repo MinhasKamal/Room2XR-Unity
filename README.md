@@ -11,6 +11,9 @@ To customize your own experience for using the CIDER system on HoloLens 2, you n
 To use Unity editor in your own windows computer, you need to follow this [instruction](https://learn.unity.com/tutorial/install-the-unity-hub-and-editor-4?uv=2021.3#) to install Unity Hub and Unity Editor version "2021.3.10f1".  
 Note: Other Unity Editor versions might result in unexpected errors. If you cannot find the specified version, try [here](https://unity.com/cn/releases/editor/archive)  
 (Add Photon link)  
+### Create Your Own Photon Unity Networking (PUN) Server
+To hold CIDER's Leader side in your own Photon server for ease of management, follow this [instruction](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials/mr-learning-sharing-02#creating-the-pun-application) to create your own Photon account, create your own application, and copy the App ID to the CIDER-Unity framework. 
+
 (Add CAD prefabs link?)  
 (Add CIDER-Python)  
 
