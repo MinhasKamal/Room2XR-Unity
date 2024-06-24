@@ -24,8 +24,13 @@ To use the full functionality of our CIDER framework, including capturing large 
 ### Leader/Follower Switching
 1. Go to the "Hierarchy" tab, find "TestConnection" GameObject
 2. In "Inspector," check/uncheck the "TCP Test Server" script to switch the CIDER to Leader/Follower
-### Package Installation
-#### HoloLens 2 Leader/Follower Package (See ["Deployable Package section"](#deployable-package))
+### Deployable Package Installation (See [Deployable Package](#deployable-package) section for package downloading)
+#### HoloLens 2 Leader/Follower Package Installation
+1. Set up Windows Device Portal for HoloLens 2 in your Windows computer following this [instruction](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/advanced-concepts/using-the-windows-device-portal)
+2. Connect your HoloLens 2 to your computer and connect to Windows Device Portal
+3. Follower this [instruction](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/advanced-concepts/using-the-windows-device-portal#installing-an-app) to install the downloaded Leader/Follower HoloLens 2 package
+#### Meta (Oculus) Quest Follower Package Installation 
+(Pending...)
 
 ## User Instruction
 (Add steps to scan the environment, set medium detail, and press world mesh...)  
@@ -34,7 +39,7 @@ To use the full functionality of our CIDER framework, including capturing large 
 ## Deployable Package
 CIDER HoloLens 2 Leader Side [Package](https://utdallas.box.com/s/z39vssfdu8bqfe1j0t08njfvwlzqvljg)  
 CIDER HoloLens 2 Follower Side [Package](https://utdallas.box.com/s/tf8xgft15eavd7n4llpnt5sijqjrb02s)  
-CIDER Oculus Quest 2/3 Follower Side [Package](https://utdallas.box.com/s/qtbn0hcn2ufrvy2mqs2pru4vol45ersz)
+CIDER Meta (Oculus) Quest 2/3 Follower Side [Package](https://utdallas.box.com/s/qtbn0hcn2ufrvy2mqs2pru4vol45ersz)
 
 ## Customizable Features
 (Remove later)
