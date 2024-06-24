@@ -1,8 +1,5 @@
 # CIDER-Unity
 
-## Table of Contents
-(Add relative links to link to all sections)  
-
 ## Introduction
 (Add a structure figure here)  
 (Add introduction text from the system paper)  
