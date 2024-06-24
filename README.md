@@ -20,9 +20,6 @@ To use the full functionality of our CIDER framework, including capturing large 
 2. Open Unity Hub, then press "Add" to add the downloaded Unity project from your disk
 3. Wait until the loading is complete
 4. The installation is completed!  
-### Leader/Follower Switching in Unity Editor (HoloLens 2 Version Only)
-1. Go to the "Hierarchy" tab, find "TestConnection" GameObject
-2. In "Inspector," check/uncheck the "TCP Test Server" script to switch the CIDER to Leader/Follower
 ### Build and Deploy Package from Unity Editor to HoloLens 2
 1. Go to Unity project, navigate to "File" --> "Build Settings"
 2. Follow the settings in this [instruction](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/build-and-deploy-to-hololens#build-the-unity-project), press "Build," and select a folder you want to store the built package
@@ -47,6 +44,10 @@ To use the full functionality of our CIDER framework, including capturing large 
 ### Leader's Environment Update Options
 1. Manually press the "Update scene" button on the control panel (third column, second row) on demand
 2. Toggle the "Auto update" button on the control panel (first column, first row) to enable auto-update every 5 seconds
+
+### Leader/Follower Switching in Unity Editor (HoloLens 2 Version Only)
+1. Go to the "Hierarchy" tab, find "TestConnection" GameObject
+2. In "Inspector," check/uncheck the "TCP Test Server" script to switch the CIDER to Leader/Follower
 
 ## Deployable Package
 CIDER HoloLens 2 Leader Side [Package](https://utdallas.box.com/s/z39vssfdu8bqfe1j0t08njfvwlzqvljg)  
