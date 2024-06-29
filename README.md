@@ -38,7 +38,12 @@ To use the full functionality of our Room2XR framework, including capturing larg
 2. Connect your HoloLens 2 to your computer and connect to Windows Device Portal
 3. Follower this [instruction](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/advanced-concepts/using-the-windows-device-portal#installing-an-app) to install the downloaded Leader/Follower HoloLens 2 package
 #### Meta (Oculus) Quest Follower Package Installation 
-(Pending...)
+1. Input the Meta Release Build link (https://www.meta.com/s/5b7Y1zPVC) into your Meta Quest 2/3 device
+2. Accept the permission (on the website, or go to your email and accept through a link) to access the project (be sure to log in to your account on your device)
+3. Go to "Store" on your Meta Quest device (or Meta Store on your computer when you connect it to your Quest device)
+4. Scroll down to the bottom, you will see the "My Preview Apps" section with "Room2XR-Unity" available to download
+5. Install it, and you will have access to the app!
+Note: you can also follow this [link](https://www.youtube.com/watch?v=IBxZiqO5IUY) to watch an instruction video to assist you in installing the app
 
 ## User Instruction
 ### Leader's Physical Environment Scanning Instruction
@@ -58,7 +63,7 @@ To use the full functionality of our Room2XR framework, including capturing larg
 ## Deployable Package
 Room2XR HoloLens 2 Leader Side [Package](https://utdallas.box.com/s/z39vssfdu8bqfe1j0t08njfvwlzqvljg)  
 Room2XR HoloLens 2 Follower Side [Package](https://utdallas.box.com/s/tf8xgft15eavd7n4llpnt5sijqjrb02s)  
-Room2XR Meta (Oculus) Quest 2/3 Follower Side [Package](https://utdallas.box.com/s/qtbn0hcn2ufrvy2mqs2pru4vol45ersz)
+Room2XR Meta (Oculus) Quest 2/3 Follower Side [Release Build](https://www.meta.com/s/5b7Y1zPVC)
 
 ## Contact
 The code of this repository was implemented by [Hung-Jui Guo](mailto:hxg190003@utdallas.edu) and [Hiranya Garbha Kumar](mailto:hiranya@utdallas.edu)  
