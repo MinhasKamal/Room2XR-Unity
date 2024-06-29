@@ -1,11 +1,11 @@
-# CIDER-Unity
+# Room2XR-Unity
 
 ## Introduction
 (Add a structure figure here)  
 (Add introduction text from the system paper)  
 
 ## Dependencies
-To customize your own experience for using the CIDER system on HoloLens 2, you need to install the following dependent software.  
+To customize your own experience for using the Room2XR system on HoloLens 2, you need to install the following dependent software.  
 ### Install Unity Editor
 To use Unity Editor on your own Windows computer, you need to follow this [instruction](https://learn.unity.com/tutorial/install-the-unity-hub-and-editor-4?uv=2021.3#) to install Unity Hub and Unity Editor version "2021.3.10f1", and please include modules: 
 - Microsoft Visual Studio Community
@@ -16,13 +16,13 @@ To use Unity Editor on your own Windows computer, you need to follow this [instr
 
 Note: Other Unity Editor versions might result in unexpected errors. If you cannot find the specified version, try [here](https://unity.com/cn/releases/editor/archive)  
 ### Create Your Own Photon Unity Networking (PUN) Server
-To hold CIDER's Leader side in your own Photon server for ease of management, follow this [instruction](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials/mr-learning-sharing-02#creating-the-pun-application) to create your own Photon account, create your own application, and copy the App ID to the CIDER-Unity framework. 
-### CIDER-Python
-To use the full functionality of our CIDER framework, including capturing large furniture in the Leader's physical environment into CAD objects, please follow the instructions [here](someLink) to set up the CIDER-Python framework. 
+To hold Room2XR's Leader side in your own Photon server for ease of management, follow this [instruction](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials/mr-learning-sharing-02#creating-the-pun-application) to create your own Photon account, create your own application, and copy the App ID to the Room2XR-Unity framework. 
+### Room2XR-Python
+To use the full functionality of our Room2XR framework, including capturing large furniture in the Leader's physical environment into CAD objects, please follow the instructions [here](https://hub.docker.com/r/kumarhiranya/vrrec) to set up the Room2XR-Python framework. 
 
 ## Installation Instruction
 ### Project Installation
-1. Download this CIDER-Unity package and extract it in your local computer
+1. Download this Room2XR-Unity package and extract it in your local computer
 2. Open Unity Hub, then press "Add" to add the downloaded Unity project from your disk
 3. Wait until the loading is complete
 4. The installation is completed!  
@@ -43,8 +43,8 @@ To use the full functionality of our CIDER framework, including capturing large 
 ## User Instruction
 ### Leader's Physical Environment Scanning Instruction
 1. Launch "PhotonSceneUnderstanding2021.3.10" app in your HoloLens 2 (Please be sure to follow [HoloLens 2 Leader Package Installation](#hololens-2-leaderfollower-package-installation))
-    - (If you are a Follower launching the app, the CIDER system will automatically connect to the existing Leader)
-3. Once connected to the CIDER-Python server, press "Detail-Medium" in "WORLD MESH DETAIL LEVEL" on the control panel (a button-pressed sound will be generated if you successfully press it)
+    - (If you are a Follower launching the app, the Room2XR system will automatically connect to the existing Leader)
+3. Once connected to the Room2XR-Python server, press "Detail-Medium" in "WORLD MESH DETAIL LEVEL" on the control panel (a button-pressed sound will be generated if you successfully press it)
 4. Press "World mesh" on the control panel to initialize the first update (first column, fourth row)
 5. A virtual environment will be generated in your HoloLens 2 view, aligning with your physical environment, and automatically sent to other connected Followers.
 ### Leader's Environment Update Options
@@ -53,12 +53,12 @@ To use the full functionality of our CIDER framework, including capturing large 
 
 ### Leader/Follower Switching in Unity Editor (HoloLens 2 Version Only)
 1. Go to the "Hierarchy" tab, find "TestConnection" GameObject
-2. In "Inspector," check/uncheck the "TCP Test Server" script to switch the CIDER to Leader/Follower
+2. In "Inspector," check/uncheck the "TCP Test Server" script to switch the Room2XR to Leader/Follower
 
 ## Deployable Package
-CIDER HoloLens 2 Leader Side [Package](https://utdallas.box.com/s/z39vssfdu8bqfe1j0t08njfvwlzqvljg)  
-CIDER HoloLens 2 Follower Side [Package](https://utdallas.box.com/s/tf8xgft15eavd7n4llpnt5sijqjrb02s)  
-CIDER Meta (Oculus) Quest 2/3 Follower Side [Package](https://utdallas.box.com/s/qtbn0hcn2ufrvy2mqs2pru4vol45ersz)
+Room2XR HoloLens 2 Leader Side [Package](https://utdallas.box.com/s/z39vssfdu8bqfe1j0t08njfvwlzqvljg)  
+Room2XR HoloLens 2 Follower Side [Package](https://utdallas.box.com/s/tf8xgft15eavd7n4llpnt5sijqjrb02s)  
+Room2XR Meta (Oculus) Quest 2/3 Follower Side [Package](https://utdallas.box.com/s/qtbn0hcn2ufrvy2mqs2pru4vol45ersz)
 
 ## Contact
 The code of this repository was implemented by [Hung-Jui Guo](mailto:hxg190003@utdallas.edu) and [Hiranya Garbha Kumar](mailto:hiranya@utdallas.edu)  
