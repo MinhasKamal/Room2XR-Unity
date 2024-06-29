@@ -1,8 +1,7 @@
 # Room2XR-Unity
 
 ## Introduction
-(Add a structure figure here)  
-(Add introduction text from the system paper)  
+This project introduces a framework designed to dynamically reconstruct real-world scenes into virtual semantically similar representations using CAD models, and share them for remote collaboration. 
 
 ## Dependencies
 To customize your own experience for using the Room2XR system on HoloLens 2, you need to install the following dependent software.  
