@@ -74,4 +74,4 @@ Please contact them directly or contact [Minhas Kamal](mailto:minhas.kamal@utdal
 (Will include once paper published)
 
 ## License
-CIDER-Unity is LICENSE under GNU General Public License v3.0
+Room2XR-Unity is LICENSE under GNU General Public License v3.0
