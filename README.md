@@ -41,8 +41,8 @@ To use the full functionality of our Room2XR framework, including capturing larg
 #### Meta (Oculus) Quest Follower Package Installation 
 1. Input the Meta Release Build link (https://www.meta.com/s/5b7Y1zPVC) into your Meta Quest 2/3 device
 2. Accept the permission (on the website, or go to your email and accept through a link) to access the project (be sure to log in to your account on your device)
-3. Go to "Store" on your Meta Quest device (or Meta Store on your computer when you connect it to your Quest device)
-4. Scroll down to the bottom, you will see the "My Preview Apps" section with "Room2XR-Unity" available to download
+3. Go to "Library" on your Meta Quest device
+4. In the list, you will see the "Room2XR-Unity" available to download with an "App Lab" on the left top corner
 5. Install it, and you will have access to the app!
 Note: you can also follow this [link](https://www.youtube.com/watch?v=IBxZiqO5IUY) to watch an instruction video to assist you in installing the app
 
