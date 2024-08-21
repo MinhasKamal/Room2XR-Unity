@@ -62,8 +62,8 @@ Note: you can also follow this [link](https://www.youtube.com/watch?v=IBxZiqO5IU
 2. In "Inspector," check/uncheck the "TCP Test Server" script to switch the Room2XR to Leader/Follower
 
 ## Deployable Package
-Room2XR HoloLens 2 Leader Side [Package](https://utdallas.box.com/s/z39vssfdu8bqfe1j0t08njfvwlzqvljg)  
-Room2XR HoloLens 2 Follower Side [Package](https://utdallas.box.com/s/tf8xgft15eavd7n4llpnt5sijqjrb02s)  
+Room2XR HoloLens 2 Leader Side [Package](https://utdallas.box.com/s/tf8xgft15eavd7n4llpnt5sijqjrb02s)  
+Room2XR HoloLens 2 Follower Side [Package](https://utdallas.box.com/s/z39vssfdu8bqfe1j0t08njfvwlzqvljg)  
 Room2XR Meta (Oculus) Quest 2/3 Follower Side [Release Build](https://www.meta.com/s/5b7Y1zPVC)
 
 ## Contact
