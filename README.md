@@ -71,7 +71,19 @@ The code of this repository was implemented by [Hung-Jui Guo](mailto:hxg190003@u
 Please contact them directly or contact [Minhas Kamal](mailto:minhas.kamal@utdallas.edu)
 
 ## Citation
-(Will include once paper published)
+```
+@inproceedings{10.1145/3664647.3685521,
+    author = {Guo, Hung-Jui and Kumar, Hiranya Garbha and Kamal, Minhas and Prabhakaran, Balakrishnan},
+    title = {Room2XR: Virtual Interactive Collaboration in Real-world Scenes},
+    year = {2024},
+    isbn = {9798400706868},
+    publisher = {Association for Computing Machinery},
+    url = {https://doi.org/10.1145/3664647.3685521},
+    doi = {10.1145/3664647.3685521},
+    booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia},
+    pages = {11206–11209}
+}
+```
 
 ## License
 Room2XR-Unity is LICENSE under GNU General Public License v3.0
