@@ -1,6 +1,5 @@
 # Room2XR-Unity
 
-## Introduction
 This project introduces a framework designed to dynamically reconstruct real-world scenes into virtual semantically similar representations using CAD models, and share them for remote collaboration.
 
 ![image](https://github.com/HenryGuo2003/Room2XR-Unity/blob/main/Room2XR_Diagram.png)
@@ -72,16 +71,16 @@ Please contact them directly or contact [Minhas Kamal](mailto:minhas.kamal@utdal
 
 ## Citation
 ```
-@inproceedings{10.1145/3664647.3685521,
+@inproceedings{Room2XR2024Guo,
     author = {Guo, Hung-Jui and Kumar, Hiranya Garbha and Kamal, Minhas and Prabhakaran, Balakrishnan},
     title = {Room2XR: Virtual Interactive Collaboration in Real-world Scenes},
     year = {2024},
     isbn = {9798400706868},
     publisher = {Association for Computing Machinery},
-    url = {https://doi.org/10.1145/3664647.3685521},
-    doi = {10.1145/3664647.3685521},
     booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia},
-    pages = {11206–11209}
+    pages = {11206–11209},
+    url = {https://doi.org/10.1145/3664647.3685521},
+    doi = {10.1145/3664647.3685521}
 }
 ```
 
