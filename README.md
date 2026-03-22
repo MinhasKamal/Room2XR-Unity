@@ -1,4 +1,7 @@
 # Room2XR-Unity
+#### ACMMM2024 - Room2XR: Virtual Interactive Collaboration in Real-world Scenes
+
+[Paper](https://dl.acm.org/doi/abs/10.1145/3664647.3685521) | Code [Unity](https://github.com/HenryGuo2003/Room2XR-Unity) & [Python-Server](https://hub.docker.com/r/kumarhiranya/vrrec)
 
 This project introduces a framework designed to dynamically reconstruct real-world scenes into virtual semantically similar representations using CAD models, and share them for remote collaboration.
 
@@ -86,3 +89,5 @@ Please contact them directly or contact [Minhas Kamal](mailto:minhas.kamal@utdal
 
 ## License
 Room2XR-Unity is LICENSE under GNU General Public License v3.0
+
+See more of my research works [here](https://scholar.google.com/citations?user=SZxTaQgAAAAJ).
