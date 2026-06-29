@@ -87,7 +87,6 @@ Please contact them directly or contact [Minhas Kamal](mailto:minhas.kamal@utdal
 }
 ```
 
-## License
-Room2XR-Unity is LICENSE under GNU General Public License v3.0
 
-See more of my research works [here](https://scholar.google.com/citations?user=SZxTaQgAAAAJ).
+See more of my research works on [GoogleScholar](https://scholar.google.com/citations?user=SZxTaQgAAAAJ). I also write about AI on [Medium](https://medium.com/@minhaskamal).
+
